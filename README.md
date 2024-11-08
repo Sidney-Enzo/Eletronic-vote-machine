@@ -14,7 +14,8 @@ you don't have to buy one, it's free enjoy it.
  - Save system
 
 ## How to use
-
+ (it exe is in dist path)
+ 
  1. Create a txt file named "candidates.txt"
 
  2. Insert the foundation and the urn code  
